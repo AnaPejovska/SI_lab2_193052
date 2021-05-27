@@ -5,6 +5,8 @@
 Ана Пејовска, бр. на индекс 193052
 
 **Control Flow Graph**
+
+
 ![Control_Flow_Graph_193052](https://user-images.githubusercontent.com/80685739/119884922-79a39b00-bf31-11eb-9f9c-9ca6a6e409c2.png)
 
 
@@ -17,11 +19,11 @@
 
 ![Multiple_Condition](https://user-images.githubusercontent.com/80685739/119885639-5f1df180-bf32-11eb-8c47-a386b35edfd7.png)
 
+Во овој метод треба да се извршат тестови за јазлите во кои се врши одлучување (true и false). 
+Со следниве тестови ги евалуирав сите можни комбинации за одлуките на секој од јазлите.
 
-....
+**Тест случаи според критериумот Every Branch**
 
-Тест случаи според критериумот Every path
-....
 
 Објаснување на напишаните unit tests
 ... ...
